@@ -1,0 +1,9 @@
+{
+    "userAlreadyExist":"This user already exist",
+    "userNotExist":"This user not exist please sign up first",
+    "succSignUp":"User signUp successfully",
+    "errPassWrong":"User Name or Password wrong",
+    "succSignIn":"User signIn successfully",
+
+    "errAuthentication" :"User not authenticated"
+}
